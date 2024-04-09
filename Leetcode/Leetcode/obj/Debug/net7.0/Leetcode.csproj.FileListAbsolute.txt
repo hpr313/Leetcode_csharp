@@ -1,0 +1,14 @@
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\bin\Debug\net7.0\Leetcode.exe
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\bin\Debug\net7.0\Leetcode.deps.json
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\bin\Debug\net7.0\Leetcode.runtimeconfig.json
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\bin\Debug\net7.0\Leetcode.dll
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\bin\Debug\net7.0\Leetcode.pdb
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\obj\Debug\net7.0\Leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\obj\Debug\net7.0\Leetcode.AssemblyInfoInputs.cache
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\obj\Debug\net7.0\Leetcode.AssemblyInfo.cs
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\obj\Debug\net7.0\Leetcode.csproj.CoreCompileInputs.cache
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\obj\Debug\net7.0\Leetcode.dll
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\obj\Debug\net7.0\refint\Leetcode.dll
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\obj\Debug\net7.0\Leetcode.pdb
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\obj\Debug\net7.0\Leetcode.genruntimeconfig.cache
+C:\Users\Perry Huang\source\repos\Leetcode\Leetcode\obj\Debug\net7.0\ref\Leetcode.dll
